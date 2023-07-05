@@ -1,0 +1,11 @@
+.nav-cont{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    box-shadow: 2px 1px 4px 1px;
+}
+.brand-img{
+    width: 110px;
+}
